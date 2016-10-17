@@ -105,7 +105,7 @@ The following packages are required to build ardupilot for the APM1/APM2
     gawk make git arduino-core g++
 
 To build ardupilot for the PX4 platform, you'll first need to install
-the PX4 toolchain and download the PX4 source code. See the `PX4 toolchain installation page <https://pixhawk.ethz.ch/px4/dev/toolchain_installation_lin>`__.
+the PX4 toolchain and download the PX4 source code. See the `PX4 toolchain installation page <http://dev.px4.io/starting-installing.html>`__.
 
 The easiest way to install all these prerequisites is to run the
 **ardupilot/Tools/scripts/install-prereqs-ubuntu.sh** script, which will
