@@ -156,7 +156,7 @@ Open (reopen) *Cygwin Terminal* and clone the Github `ArduPilot repository: <htt
     git clone git://github.com/ArduPilot/ardupilot.git
     cd ardupilot
     git submodule init
-    git submodule update
+    git submodule update --recursive
 
 In the terminal navigate to the *ArduCopter* directory and run **make**
 as shown:
